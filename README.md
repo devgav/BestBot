@@ -9,4 +9,4 @@ Bestbot is a program used to scrape the bestbuy.com website in order to find in 
 4. Run the project using the cmd 'node index.js'
 
 ## Checkout
-To checkout add your info in the .json file.
+To checkout add your info in the info.json file.
